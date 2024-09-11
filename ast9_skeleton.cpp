@@ -1,7 +1,7 @@
 /*
 * Assignment 9 - Recursion
 * Sam Black - Skeleton contributor and main
-* Isabella Maffeo - finished skeleton and coded Doll.h and Doll_skeleton.cpp
+* Isabella - finished skeleton and coded Doll.h and Doll_skeleton.cpp
 * 
 * Description: In this program, you will have a series of Matryoshka Dolls. Each Matryoshka Doll can contain any number of other
 * Dolls inside of it. You will need to implement functions to insert, open, and get the innermost of the dolls. To do this, we will
